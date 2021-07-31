@@ -5,7 +5,6 @@ const basePath = resolve()
 
 const filenames = {
   messages: resolve(basePath, 'src/db/messages.json'),
-  users: resolve(basePath, 'src/db/users.json'),
   drawings: resolve(basePath, 'src/db/drawings.json'),
 }
 
